@@ -115,9 +115,3 @@ This code is licensed under the **LLaMA 2 Community License Agreement**. Please 
 
 Feel free to fork, explore, and modify. Contributions and feedback are welcome!
 
-```
-
----
-
-Let me know if you'd like me to add badges (e.g., Python version, license) or generate this file programmatically in a `.md` file for you.
-```
