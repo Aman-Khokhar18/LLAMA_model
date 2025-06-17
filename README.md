@@ -3,7 +3,6 @@ Download the weights from: [https://github.com/facebookresearch/l...](https://gi
 
 ---
 
-```markdown
 # 🦙 LLaMA: Large Language Model from Scratch in PyTorch
 
 This repository provides a clean and educational implementation of the **LLaMA** (Large Language Model Meta AI) transformer model entirely from scratch using **PyTorch**. It supports loading the official Meta model weights, performing inference (text completion), and understanding the inner workings of transformer blocks.
@@ -42,7 +41,6 @@ This repository provides a clean and educational implementation of the **LLaMA**
 
 ````
 
----
 
 ## 📥 Setup
 
