@@ -46,8 +46,8 @@ This repository provides a clean and educational implementation of the **LLaMA**
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/llama-from-scratch
-cd llama-from-scratch
+git clone https://github.com/Aman-Khokhar18/LLAMA_model
+cd LLAMA_Model
 ````
 
 ### 2. Download model weights
